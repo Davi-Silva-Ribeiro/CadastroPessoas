@@ -1,0 +1,3 @@
+C:\Users\etec\source\repos\Cadastro-Pessoas\Cadastro-Pessoas\obj\Debug\Cadastro-Pessoas.csproj.AssemblyReference.cache
+C:\Users\etec\source\repos\Cadastro-Pessoas\Cadastro-Pessoas\obj\Debug\Cadastro-Pessoas.csproj.SuggestedBindingRedirects.cache
+C:\Users\etec\source\repos\Cadastro-Pessoas\Cadastro-Pessoas\obj\Debug\Cadastro-Pessoas.csproj.CoreCompileInputs.cache
